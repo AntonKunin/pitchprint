@@ -1,0 +1,12 @@
+client/build/lang/
+client/build/styles/
+client/src/styles/
+node_modules/
+plugins/src/
+lang/
+config.json
+deploy.json
+Gruntfile.js
+package.json
+pfile
+stage.json
