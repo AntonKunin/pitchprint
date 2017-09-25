@@ -27,7 +27,7 @@
 					url: apiBase + 'validate',
 					type: 'POST',
 					dataType: 'json',
-					xhrFields: { withCredentials: true }
+					xhrFields: { withCredentials: true },
 					data: {
 						userId: userId,
 						apiKey: apiKey,
