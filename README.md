@@ -1,21 +1,21 @@
-##PitchPrint SDK
+## PitchPrint SDK
 
 PitchPrint is a web application that provides your website with a functionality that allows customers to easily customize graphic designs for print products.
 This repo hosts the client integration files for OpenCart, WordPress, Shopify and Prestashop shopping-cart frameworks as well as an sdk file for custom integration.
 
-###Api Documentation
+### Api Documentation
 [Read more here](http://dev.pitchprint.com) if you need to integrate PitchPrint on your custom website
 
 
-###PitchPrint Wiki
+### PitchPrint Wiki
 For FAQ, Blog and other general info, click [here](http://docs.pitchprint.com/)
 
 	
-###Support
+### Support
 Should you run into issues, use our [Support channels](http://support.pitchprint.com)
 
 
-###MIT License
+### MIT License
 
 Copyright (c) 2008-2017 PitchPrint
 
